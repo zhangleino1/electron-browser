@@ -10,4 +10,6 @@
 # 打包exe
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210131232620968.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2h1YW5nbWluZ2xlaWx1bw==,size_16,color_FFFFFF,t_70)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210131232620754.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2h1YW5nbWluZ2xlaWx1bw==,size_16,color_FFFFFF,t_70)
-如果想定制请加微信号【qingmiaogu】或者扫描![输入图片说明](https://img-blog.csdnimg.cn/20200607122146933.png "在这里输入图片标题")
+
+
+如果想定制请微信扫描![输入图片说明](https://img-blog.csdnimg.cn/20200607122146933.png "在这里输入图片标题")，联系我
