@@ -10,9 +10,5 @@
 # 打包exe
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210131232620968.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2h1YW5nbWluZ2xlaWx1bw==,size_16,color_FFFFFF,t_70)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210131232620754.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2h1YW5nbWluZ2xlaWx1bw==,size_16,color_FFFFFF,t_70)
-如果想定制请加微信号【qingmiaogu】或者
-
-# 5.参考文献
-王道考研/CSKAOYAN.COM，《计算机网络》视频教程，小姐姐讲的真好，比看书好多了。
-[更多精彩请关注](http://www.qingmiaokeji.cn)公众号【lovepythoncn】
-![](https://cdn.nlark.com/yuque/0/2020/png/354158/1581867594897-7f03d6d1-a393-4853-83d9-20a53085ab3a.png#align=left&display=inline&height=150&originHeight=150&originWidth=150&size=0&status=done&style=none&width=150#align=left&display=inline&height=150&originHeight=150&originWidth=150&status=done&style=none&width=150#align=left&display=inline&height=150&originHeight=150&originWidth=150&status=done&style=none&width=150)
+如果想定制请加微信号【qingmiaogu】或者扫描公众号
+![输入图片说明](https://cdn.nlark.com/yuque/0/2020/png/354158/1581867594897-7f03d6d1-a393-4853-83d9-20a53085ab3a.png#align=left&display=inline&height=150&originHeight=150&originWidth=150&size=0&status=done&style=none&width=150#align=left&display=inline&height=150&originHeight=150&originWidth=150&status=done&style=none&width=150#align=left&display=inline&height=150&originHeight=150&originWidth=150&status=done&style=none&width=150 "在这里输入图片标题")
